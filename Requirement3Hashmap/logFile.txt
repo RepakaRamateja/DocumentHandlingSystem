@@ -1,0 +1,56 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     C:\project3finalADS\Requirement3Hashmap
+     Path: "C:\project3finalADS\Requirement3Hashmap"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      93
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Hashmap.h       class                         HashMapADT      59      14      11
+                 Hashmap.h    function                         HashMapADT      74       6       2
+                 Hashmap.h    function                               hash      83       7       1
+                 Hashmap.h    function                              print      93       9       2
+                 Hashmap.h    function                         find_index     105      16       2
+                 Hashmap.h    function                             insert     124      10       2
+                 Hashmap.h    function                               find     137       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Hashmap.cpp    function                               main       6       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  dirent.h      struct                             dirent     148       5       1
+                  dirent.h      struct                                DIR     156       7       1
+                  dirent.h    function                            opendir     193      61      10
+                  dirent.h      struct                             dirent     264      49       9
+                  dirent.h    function                           closedir     320      17       3
+                  dirent.h    function                          rewinddir     347      19       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           invertedindex.h       class                      invertedindex      51     348      50
+           invertedindex.h    function                            ffsplit      57      13       2
+           invertedindex.h    function                              edits      72      25       7
+           invertedindex.h    function                               open     100      15       2
+           invertedindex.h    function                   thirdrequirement     118     279      38
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  dirent.h    function                            opendir     193      61      10
+           invertedindex.h    function                   thirdrequirement     118     279      38
+
+
+
+    searched     3 dirs
+   processed     4 files

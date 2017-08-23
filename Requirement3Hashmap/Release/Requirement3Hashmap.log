@@ -1,0 +1,22 @@
+﻿  Hashmap.cpp
+c:\project3finalads\requirement3hashmap\Hashmap.h(86): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\../Trie/Trie.h(82): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\../Trie/Trie.h(116): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\../Trie/Trie.h(149): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\../Trie/Trie.h(172): warning C4018: '<=': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(75): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(79): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(83): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(89): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(138): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(173): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(239): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(294): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(320): warning C4018: '<': signed/unsigned mismatch
+c:\project3finalads\requirement3hashmap\invertedindex.h(347): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  All 570 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Requirement3Hashmap.vcxproj -> C:\project3finalADS\Release\Requirement3Hashmap.exe
+  Requirement3Hashmap.vcxproj -> C:\project3finalADS\Release\Requirement3Hashmap.pdb (Full PDB)
